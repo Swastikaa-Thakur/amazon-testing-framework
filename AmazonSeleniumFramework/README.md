@@ -31,24 +31,7 @@ AmazonSeleniumFramework/
 
 
 
-## 📝 Test Cases Covered
 
-### HomePageTest.java
-| Test | What it checks |
-|------|----------------|
-| `testAmazonHomePageTitle` | Page title contains "Amazon" |
-| `testAmazonHomePageUrl` | URL contains "amazon.in" |
-| `testSearchNavigatesToResultsPage` | Search redirects to results page |
-| `testSignInPageOpens` | Sign In button navigates correctly |
-
-### SearchTest.java
-| Test | What it checks |
-|------|----------------|
-| `testSearchReturnsResults` | Search shows product results |
-| `testSearchUrlContainsKeyword` | Search URL has keyword |
-| `testClickingProductOpensProductPage` | Product page loads on click |
-| `testProductPageShowsPrice` | Product price is visible |
-| `testAddToCartButtonVisible` | Add to Cart button exists |
 
 ---
 
